@@ -51,6 +51,6 @@ This project is made for Assignment purposes.
 <img src="Media/Notifications.png" width="280"/>
   </kbd>
   <kbd>
-<img src="Media/My%Profile%1.png" width="280"/>
+<img src="Media/My%20Profile%201.png" width="280"/>
   </kbd>
 </div>
