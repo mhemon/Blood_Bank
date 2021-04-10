@@ -1,5 +1,5 @@
 # Blood Bank
-This project is made for Assignment purpose.
+This project is made for Assignment purposes.
 
 <div>
   <kbd>
@@ -14,6 +14,25 @@ This project is made for Assignment purpose.
   <kbd>
 <img src="Media/Sign%20In.png" width="280"/>
   </kbd>
-<img src="images/download%20(4).png" width="280"/>
-<img src="images/download%20(5).png" width="280"/>
+  <kbd>
+<img src="Media/Sign%20Up%201.png" width="280"/>
+  </kbd>
+  <kbd>
+<img src="Media/Sign%20Up%202.png" width="280"/>
+  </kbd>
+  <kbd>
+<img src="Media/Sign%20Up%203.png" width="280"/>
+  </kbd>
+  <kbd>
+<img src="Media/Sign%20Up%204.png" width="280"/>
+  </kbd>
+  <kbd>
+<img src="Media/Sign%20Up%205.png" width="280"/>
+  </kbd>
+  <kbd>
+<img src="Media/Sign%20Up%206.png" width="280"/>
+  </kbd>
+  <kbd>
+<img src="Media/Sign%20Up%207.png" width="280"/>
+  </kbd>
 </div>
