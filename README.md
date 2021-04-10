@@ -42,7 +42,7 @@ This project is made for Assignment purposes.
 <img src="Media/Home%20Screen.png" width="280"/>
   </kbd>
   <kbd>
-<img src="Media/Search%20Donor%201.png" width="280"/>
+<img src="Media/Search%20Donor%202.png" width="280"/>
   </kbd> 
   <kbd>
 <img src="Media/Notifications.png" width="280"/>
