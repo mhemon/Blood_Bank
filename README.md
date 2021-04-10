@@ -35,4 +35,22 @@ This project is made for Assignment purposes.
   <kbd>
 <img src="Media/Sign%20Up%207.png" width="280"/>
   </kbd>
+   <kbd>
+<img src="Media/Sign%20Up%208.png" width="280"/>
+  </kbd>
+   <kbd>
+<img src="Media/Sign%20Up%208.png" width="280"/>
+  </kbd> 
+  <kbd>
+<img src="Media/Home%20Screen.png" width="280"/>
+  </kbd>
+  <kbd>
+<img src="Media/Search%20Donor%201.png" width="280"/>
+  </kbd> 
+  <kbd>
+<img src="Media/Notifications.png" width="280"/>
+  </kbd>
+  <kbd>
+<img src="Media/My%Profile%1.png" width="280"/>
+  </kbd>
 </div>
